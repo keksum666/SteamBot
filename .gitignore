@@ -1,1 +1,47 @@
-﻿.idea
+﻿# Файлы и папки сборки
+bin/
+obj/
+*.dll
+*.exe
+*.app
+*.pdb
+*.cache
+*.log
+
+# Файлы конфигурации IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# Файлы, генерируемые Avalonia
+**/*.g.cs
+**/*.g.i.cs
+
+# Папки и файлы NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы журналов и временные файлы
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Файлы сертификатов и ключей (если используются)
+*.pfx
+*.key
+*.pem
+*.cer
+*.crt

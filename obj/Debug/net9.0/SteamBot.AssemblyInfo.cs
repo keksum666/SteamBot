@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SteamBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e81fa15337f3c824da6015b60daa61f883f614d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SteamBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SteamBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

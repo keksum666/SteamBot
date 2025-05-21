@@ -1455,19 +1455,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Julia\\.nuget\\packages\\": {}
+    "/Users/keksum666/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SteamBot\\SteamBot.csproj",
+      "projectUniqueName": "/Users/keksum666/Projects/SteamBot/SteamBot.csproj",
       "projectName": "SteamBot",
-      "projectPath": "D:\\Projects\\SteamBot\\SteamBot.csproj",
-      "packagesPath": "C:\\Users\\Julia\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SteamBot\\obj\\",
+      "projectPath": "/Users/keksum666/Projects/SteamBot/SteamBot.csproj",
+      "packagesPath": "/Users/keksum666/.nuget/packages/",
+      "outputPath": "/Users/keksum666/Projects/SteamBot/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/keksum666/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1538,7 +1538,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
